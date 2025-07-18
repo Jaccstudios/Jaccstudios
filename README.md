@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Julio Arturo Córdova Cú</h1>
-<h3 align="center">Desarrollador Full Stack | Licenciado en Matemáticas Puras</h3>
+<h3 align="center">Desarrollador Full Stack | Ingeniero en Sistemas Computacionales | Licenciado en Matemáticas Puras</h3>
 
 <p align="center">
   <a href="https://github.com/Jaccstudios">
