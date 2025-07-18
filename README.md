@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Jaccstudios">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=0F52BA&center=true&vCenter=true&width=435&lines=Bienvenido+a+mi+perfil+de+GitHub!;Desarrollador+Backend+y+Frontend;Matemáticas+y+tecnología+combinadas;Apasionado+por+la+IA+y+la+Ciberseguridad" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=0F52BA&center=true&vCenter=true&width=435&lines=Bienvenido+a+mi+perfil+de+GitHub!;Desarrollador+Backend+y+Frontend;Matemáticas+y+tecnología+combinadas;Apasionado+por+IA+y+Ciberseguridad;Apasionado+a+las+Telecomunicaciones;Novato+en+Blockchain;Interesado+en+Desarrollo+de+Videojuegos" alt="Typing SVG" />
   </a>
 </p>
 
