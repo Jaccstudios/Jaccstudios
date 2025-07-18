@@ -1,8 +1,10 @@
 <h1 align="center">👨‍💻 Julio Arturo Córdova Cú</h1>
-<h3 align="center">Desarrollador Full Stack & Licenciado en Matemáticas Puras</h3>
+<h3 align="center">Desarrollador Full Stack | Licenciado en Matemáticas Puras</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Bienvenido+a+mi+perfil+de+GitHub!;Desarrollador+Backend+y+Frontend;Apasionado+por+la+programación+y+las+matemáticas.&center=true&width=440&height=45&color=0F52BA&vCenter=true&size=20" />
+  <a href="https://github.com/Jaccstudios">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=0F52BA&center=true&vCenter=true&width=435&lines=Bienvenido+a+mi+perfil+de+GitHub!;Desarrollador+Backend+y+Frontend;Matemáticas+y+tecnología+combinadas;Apasionado+por+el+código+y+la+lógica" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
@@ -11,10 +13,9 @@
 
 ### 🔧 Backend
 
-He trabajado con diversos lenguajes para construir APIs, sistemas embebidos, herramientas de automatización y más:
+He trabajado con diversos lenguajes para construir APIs, herramientas científicas, y sistemas de automatización.
 
-**Lenguajes:**
-
+#### Lenguajes:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
@@ -27,26 +28,24 @@ He trabajado con diversos lenguajes para construir APIs, sistemas embebidos, her
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat&logo=none&logoColor=white)
-![FORTRAN](https://img.shields.io/badge/FORTRAN-734F96?style=flat&logo=none)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![FORTRAN](https://img.shields.io/badge/FORTRAN-734F96?style=flat)
 ![COBOL](https://img.shields.io/badge/COBOL-002F6C?style=flat)
 ![Pascal](https://img.shields.io/badge/Pascal-512BD4?style=flat)
-![MatLab](https://img.shields.io/badge/MatLab-0076A8?style=flat)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat)
+![MatLab](https://img.shields.io/badge/MATLAB-0076A8?style=flat)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat)
-![Wolfram Mathematica](https://img.shields.io/badge/Mathematica-DD1100?style=flat)
+![Mathematica](https://img.shields.io/badge/Mathematica-DD1100?style=flat)
 
-**Bases de Datos:**
-
+#### Bases de Datos:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-**Frameworks Backend:**
-
+#### Frameworks:
 - Node.js (Express)
 - Django / Flask (Python)
 - Spring Boot (Java)
@@ -58,8 +57,7 @@ He trabajado con diversos lenguajes para construir APIs, sistemas embebidos, her
 
 ### 🎨 Frontend
 
-**Lenguajes y Herramientas:**
-
+#### Lenguajes y tecnologías:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -72,25 +70,25 @@ React y Vue en exploración 🚧
 
 ## 📌 ¿Qué encontrarás en mis repos?
 
-- Proyectos personales y colaborativos.
-- Utilidades para automatización.
-- Pruebas de conceptos con lenguajes modernos y antiguos.
-- Desarrollos matemáticos aplicados a la computación.
+🔹 Proyectos personales y colaborativos  
+🔹 Utilidades de automatización y análisis  
+🔹 Experimentos con lenguajes clásicos y modernos  
+🔹 Aplicaciones matemáticas para resolver problemas reales
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaccstudios&show_icons=true&theme=github_dark&hide=issues&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaccstudios&layout=compact&theme=github_dark&langs_count=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaccstudios&show_icons=true&theme=radical&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaccstudios&layout=compact&theme=radical&langs_count=10" height="180" />
 </p>
 
 ---
 
 ## 🚀 Siempre aprendiendo
 
-Me entusiasma seguir explorando nuevas tecnologías, paradigmas de programación, y combinar el pensamiento lógico-matemático con el desarrollo de software.
+Me entusiasma explorar nuevas tecnologías, paradigmas de programación, inteligencia artificial, teoría de lenguajes, y más. Mi enfoque combina pensamiento matemático con diseño de software sólido y eficiente.
 
 ---
 
@@ -102,7 +100,10 @@ Me entusiasma seguir explorando nuevas tecnologías, paradigmas de programación
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="Coding" />
 </p>
 
-> *“El código es poesía, pero también es ingeniería.”*
+<p align="center">
+  <em>“El código es poesía, pero también es ingeniería.”</em>
+</p>
+
