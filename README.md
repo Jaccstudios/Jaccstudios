@@ -3,8 +3,12 @@
 
 <p align="center">
   <a href="https://github.com/Jaccstudios">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=0F52BA&center=true&vCenter=true&width=435&lines=Bienvenido+a+mi+perfil+de+GitHub!;Desarrollador+Backend+y+Frontend;Matemáticas+y+tecnología+combinadas;Apasionado+por+el+código+y+la+lógica" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=0F52BA&center=true&vCenter=true&width=435&lines=Bienvenido+a+mi+perfil+de+GitHub!;Desarrollador+Backend+y+Frontend;Matemáticas+y+tecnología+combinadas;Apasionado+por+la+IA+y+la+Ciberseguridad" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jaccstudios&label=Visitas&color=blue&style=flat" alt="Jaccstudios" />
 </p>
 
 ---
@@ -13,7 +17,7 @@
 
 ### 🔧 Backend
 
-He trabajado con diversos lenguajes para construir APIs, herramientas científicas, y sistemas de automatización.
+He trabajado con diversos lenguajes para construir APIs, herramientas científicas, sistemas de automatización y más.
 
 #### Lenguajes:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -68,16 +72,40 @@ React y Vue en exploración 🚧
 
 ---
 
-## 📌 ¿Qué encontrarás en mis repos?
+## 📚 Áreas de Conocimiento
 
-🔹 Proyectos personales y colaborativos  
-🔹 Utilidades de automatización y análisis  
-🔹 Experimentos con lenguajes clásicos y modernos  
-🔹 Aplicaciones matemáticas para resolver problemas reales
+Además del desarrollo de software, tengo conocimientos sólidos en:
+
+- 🛡️ **Ciberseguridad & Hacking Ético**
+- 🤖 **Inteligencia Artificial**
+- 🔐 **Criptografía**
+- 🔗 **Blockchain & Web3**
+- 🌐 **Redes de Computadoras**
+- 💾 **Sistemas Operativos**
+- 📘 **Lenguajes Formales y Autómatas**
+- 🔤 **Teoría de Lenguajes y Compiladores**
 
 ---
 
-## 📈 Estadísticas
+## 📌 ¿Qué encontrarás en mis repos?
+
+🔹 Proyectos personales y colaborativos  
+🔹 Utilidades para automatización y seguridad  
+🔹 Implementaciones teóricas y matemáticas  
+🔹 Experimentos con lenguajes clásicos y modernos  
+🔹 Scripts de pruebas, algoritmos, y más
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jaccstudios&theme=radical&margin-w=10&row=2&column=4" />
+</p>
+
+---
+
+## 📈 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jaccstudios&show_icons=true&theme=radical&count_private=true" height="180" />
@@ -86,24 +114,9 @@ React y Vue en exploración 🚧
 
 ---
 
-## 🚀 Siempre aprendiendo
+## ⏱️ Tiempo de codificación semanal (WakaTime)
 
-Me entusiasma explorar nuevas tecnologías, paradigmas de programación, inteligencia artificial, teoría de lenguajes, y más. Mi enfoque combina pensamiento matemático con diseño de software sólido y eficiente.
+> *Requiere que conectes tu cuenta en [WakaTime](https://wakatime.com/)*
 
----
-
-## 📫 Contacto
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/julio-arturo-c%C3%B3rdova-c%C3%BA-aa9a33286/)
-- 📧 juliocc817@gmail.com
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="Coding" />
-</p>
-
-<p align="center">
-  <em>“El código es poesía, pero también es ingeniería.”</em>
-</p>
-
+```text
+📊 Esta semana he codificado:
