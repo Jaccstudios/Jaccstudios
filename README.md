@@ -82,8 +82,8 @@ React y Vue en exploración 🚧
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JulioCordovaCu&show_icons=true&theme=github_dark&hide=issues&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCordovaCu&layout=compact&theme=github_dark&langs_count=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaccstudios&show_icons=true&theme=github_dark&hide=issues&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaccstudios&layout=compact&theme=github_dark&langs_count=10" height="180"/>
 </p>
 
 ---
