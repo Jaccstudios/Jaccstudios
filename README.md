@@ -114,9 +114,23 @@ Además del desarrollo de software, tengo conocimientos sólidos en:
 
 ---
 
-## ⏱️ Tiempo de codificación semanal (WakaTime)
+## 🚀 Siempre aprendiendo
 
-> *Requiere que conectes tu cuenta en [WakaTime](https://wakatime.com/)*
+Mi enfoque profesional se centra en aprender y aplicar nuevas tecnologías que integren programación, matemáticas y teoría computacional.
 
-```text
-📊 Esta semana he codificado:
+---
+
+## 📫 Contacto
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/julio-arturo-c%C3%B3rdova-c%C3%BA-aa9a33286/)
+- 📧 juliocc817@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="Coding" />
+</p>
+
+<p align="center">
+  <em>“El código es poesía, pero también es ingeniería.”</em>
+</p>
